@@ -9938,13 +9938,13 @@ h4.sub-title {
 
 @media (max-width: 569px) {
   .w3l-bootstrap-header nav.navbar {
-    padding: 0 15px; 
+   padding: 0 15px; 
     
     padding: 15px;
-    
-    background-attachment: fixed;
-    position: relative;
-    height: 50px;} }
+    background-color: black;
+    background-attachment: initial;
+    position: fixed;
+    height: 59px;} }
 
 @media (max-width: 320px) {
   .w3l-bootstrap-header a.navbar-brand {
